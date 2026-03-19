@@ -55,14 +55,14 @@
 
 ### 🕹️ Pacman Contribution Graph
 
-<!-- Note: The Pacman graph currently shows a demo to keep the interaction alive. To reflect your own contributions, you'd need to set up the 'pacman-contribution-graph' GitHub action in your repository and update this URL to your username! -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bala-Ganesh-444/Bala-Ganesh-444/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bala-Ganesh-444/Bala-Ganesh-444/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Bala-Ganesh-444/Bala-Ganesh-444/output/pacman-contribution-graph.svg">
   </picture>
 </div>
+
 
 ---
 
