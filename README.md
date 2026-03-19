@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Bala+Ganesh;Welcome+to+my+Developer+Space!;" alt="Typing SVG" />
 </h1>
 
-**Frontend & Python Developer | AI Enthusiast**
+**Full Stack & Frontend & Python Developer | AI Enthusiast**
 
 </div>
 
