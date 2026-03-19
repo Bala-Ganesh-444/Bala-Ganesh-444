@@ -1,6 +1,5 @@
-
 <!--
-**Bala-Ganesh-444/Bala-Ganesh-444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bala-Ganesh-444/Bala-Ganesh-444** is a ✨ _special_ ✨ repository because its [README.md](file:///C:/Users/User/.gemini/antigravity/brain/5aae53a9-bac1-4cb2-b533-e388b285481f/PROFILE_README.md) (this file) appears on your GitHub profile.
 -->
 
 <h1 align="center">
@@ -48,7 +47,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bala-Ganesh-444&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app?username=Bala-Ganesh-444&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bala-Ganesh-444&theme=dracula" height="150" alt="Profile Summary"  />
 </div>
 
 ---
@@ -57,12 +56,11 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bala-Ganesh-444/Bala-Ganesh-444/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bala-Ganesh-444/Bala-Ganesh-444/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Bala-Ganesh-444/Bala-Ganesh-444/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bala-Ganesh-444/Bala-Ganesh-444/output/dist/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bala-Ganesh-444/Bala-Ganesh-444/output/dist/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Bala-Ganesh-444/Bala-Ganesh-444/output/dist/pacman-contribution-graph.svg">
   </picture>
 </div>
-
 
 ---
 
@@ -80,5 +78,5 @@
 <br />
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Bala-Ganesh-444/count.svg" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Bala-Ganesh-444&color=blue" alt="Profile Views" />
 </div>
